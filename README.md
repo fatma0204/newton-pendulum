@@ -9,4 +9,4 @@ you can control the number of moving pendulums through the buttons 2,3,4,5,6 of 
 
 and controlling the speed form "+" and "-" buttons
 
-![](https://media.giphy.com/media/1zkb0pxDj3ZdN6X3p9/giphy.gif)
+![](https://media.giphy.com/media/5tdoCtia5SOLlJfDn4/giphy.gif)
